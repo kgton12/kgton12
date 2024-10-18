@@ -1,8 +1,5 @@
 # Hi, I'm Wellington! :wave:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kgton12)](https://github.com/kgton12)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-malheiro-9173981bb/)](https://www.linkedin.com/in/wellington-malheiro-9173981bb/)
-
 ![Banner](https://i.imgur.com/HygErxi.png)
 
 ## About me
@@ -10,6 +7,9 @@
 I'm a developer passionate about technology and its entire ecosystem. I work as a **backend**, **frontend**, and **mobile** developer, constantly exploring new tools and frameworks to enhance my skill set.
 
 I enjoy coding, learning, and, of course, a good cup of coffee! ☕
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kgton12)](https://github.com/kgton12)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-malheiro-9173981bb/)](https://www.linkedin.com/in/wellington-malheiro-9173981bb/)
 
 ## 🚀💻 Technologies & Tools
 
