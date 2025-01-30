@@ -1,6 +1,6 @@
 # Hi, I'm Wellington! :wave:
 
-![Banner](https://i.imgur.com/HygErxi.png)
+![Banner](https://imgur.com/c7ZoDrI.png)
 
 ## About me
 
